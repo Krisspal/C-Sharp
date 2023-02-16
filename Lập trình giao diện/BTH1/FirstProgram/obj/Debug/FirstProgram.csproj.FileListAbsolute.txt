@@ -1,0 +1,11 @@
+D:\Visual Studio\Repos\C#\BTH1\FirstProgram\bin\Debug\FirstProgram.exe.config
+D:\Visual Studio\Repos\C#\BTH1\FirstProgram\bin\Debug\FirstProgram.exe
+D:\Visual Studio\Repos\C#\BTH1\FirstProgram\bin\Debug\FirstProgram.pdb
+D:\Visual Studio\Repos\C#\BTH1\FirstProgram\obj\Debug\FirstProgram.csproj.AssemblyReference.cache
+D:\Visual Studio\Repos\C#\BTH1\FirstProgram\obj\Debug\FirstProgram.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Repos\C#\BTH1\FirstProgram\obj\Debug\FirstProgram.Form1.resources
+D:\Visual Studio\Repos\C#\BTH1\FirstProgram\obj\Debug\FirstProgram.Properties.Resources.resources
+D:\Visual Studio\Repos\C#\BTH1\FirstProgram\obj\Debug\FirstProgram.csproj.GenerateResource.cache
+D:\Visual Studio\Repos\C#\BTH1\FirstProgram\obj\Debug\FirstProgram.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Repos\C#\BTH1\FirstProgram\obj\Debug\FirstProgram.exe
+D:\Visual Studio\Repos\C#\BTH1\FirstProgram\obj\Debug\FirstProgram.pdb
